@@ -12,9 +12,8 @@ public class StringComparison {
 		String s1 = "Saravanan";
 		String s2 = "Saravanan";
 		
+		// Using equals() Method
 		System.out.println(s1.equals(s2));
-		
-
 	}
 
 }
